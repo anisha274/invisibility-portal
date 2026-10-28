@@ -5,6 +5,12 @@ Each hand opens a portal on its index fingertip; inside it you see one of seven
 effects: Invisibility (background reveal), Swirl, Thermal, Pixelate, Neon Edges,
 Mirror, Grayscale. Shapes: circle, hexagon, star.
 
+## Demo
+
+<video src="https://github.com/anisha274/invisibility-portal/raw/main/assets/demo.mp4" controls muted width="100%"></video>
+
+If the player doesn't load, [watch the demo video](assets/demo.mp4).
+
 ## Setup
 
 Needs Python 3.9–3.12 and a webcam.
