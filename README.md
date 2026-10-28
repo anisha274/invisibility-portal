@@ -11,6 +11,12 @@ Mirror, Grayscale. Shapes: circle, hexagon, star.
 
 If the player doesn't load, [watch the demo video](assets/demo.mp4).
 
+## Screenshots
+
+![Swirl effect in a hexagon portal](assets/swirl-hexagon.jpg)
+
+![Thermal, Swirl, Neon Edges, Pixelate and Grayscale effects across circle, hexagon and star portals](assets/effects.jpg)
+
 ## Setup
 
 Needs Python 3.9–3.12 and a webcam.
